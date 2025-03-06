@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 <h1 align="center">Hi 👋, I'm Fat</h1>
-<img align="right" alt="Coding" width="250"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm0zODU0Z213a3U3cHE0eTZoZGxhcDVyMzQ2NGxscWZ3d2d5MjB5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif">
 <h3 align="center">An enthusiastic mobile developer from Vietnam</h3>
+<img align="right" alt="Coding" width="200"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm0zODU0Z213a3U3cHE0eTZoZGxhcDVyMzQ2NGxscWZ3d2d5MjB5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif">
 
 - 🔭 I’m currently working on **Swafa**
   
